@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fast Food", "Fast Food.csproj", "{BC81332A-6A8B-48F8-9B53-75ECBCF0ED83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fastfood.models", "..\fastfood.models\fastfood.models.csproj", "{83AD1A47-B7FD-4C3A-979B-12A7B3E9CE7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fastfood.Repository", "..\fastfood.Repository\fastfood.Repository.csproj", "{A535116C-90EA-4EE0-A7E2-1D1DE09A1A5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fastfood.Services", "..\fastfood.Services\fastfood.Services.csproj", "{DB15BC21-40BD-4E61-BA22-DE58AF80AB48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC81332A-6A8B-48F8-9B53-75ECBCF0ED83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC81332A-6A8B-48F8-9B53-75ECBCF0ED83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC81332A-6A8B-48F8-9B53-75ECBCF0ED83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC81332A-6A8B-48F8-9B53-75ECBCF0ED83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83AD1A47-B7FD-4C3A-979B-12A7B3E9CE7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83AD1A47-B7FD-4C3A-979B-12A7B3E9CE7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83AD1A47-B7FD-4C3A-979B-12A7B3E9CE7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83AD1A47-B7FD-4C3A-979B-12A7B3E9CE7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A535116C-90EA-4EE0-A7E2-1D1DE09A1A5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A535116C-90EA-4EE0-A7E2-1D1DE09A1A5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A535116C-90EA-4EE0-A7E2-1D1DE09A1A5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A535116C-90EA-4EE0-A7E2-1D1DE09A1A5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB15BC21-40BD-4E61-BA22-DE58AF80AB48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB15BC21-40BD-4E61-BA22-DE58AF80AB48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB15BC21-40BD-4E61-BA22-DE58AF80AB48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB15BC21-40BD-4E61-BA22-DE58AF80AB48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6806E064-B79F-4318-AEA4-3ACBB2A8815A}
+	EndGlobalSection
+EndGlobal

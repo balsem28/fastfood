@@ -1,0 +1,30 @@
+C:\Users\balse\source\repos\Fast Food\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\balse\source\repos\Fast Food\bin\Debug\net6.0\appsettings.json
+C:\Users\balse\source\repos\Fast Food\bin\Debug\net6.0\Fast Food.staticwebassets.runtime.json
+C:\Users\balse\source\repos\Fast Food\bin\Debug\net6.0\Fast Food.exe
+C:\Users\balse\source\repos\Fast Food\bin\Debug\net6.0\Fast Food.deps.json
+C:\Users\balse\source\repos\Fast Food\bin\Debug\net6.0\Fast Food.runtimeconfig.json
+C:\Users\balse\source\repos\Fast Food\bin\Debug\net6.0\Fast Food.dll
+C:\Users\balse\source\repos\Fast Food\bin\Debug\net6.0\Fast Food.pdb
+C:\Users\balse\source\repos\Fast Food\obj\Debug\net6.0\Fast Food.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balse\source\repos\Fast Food\obj\Debug\net6.0\Fast Food.AssemblyInfoInputs.cache
+C:\Users\balse\source\repos\Fast Food\obj\Debug\net6.0\Fast Food.AssemblyInfo.cs
+C:\Users\balse\source\repos\Fast Food\obj\Debug\net6.0\Fast Food.csproj.CoreCompileInputs.cache
+C:\Users\balse\source\repos\Fast Food\obj\Debug\net6.0\Fast Food.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\balse\source\repos\Fast Food\obj\Debug\net6.0\Fast Food.RazorAssemblyInfo.cache
+C:\Users\balse\source\repos\Fast Food\obj\Debug\net6.0\Fast Food.RazorAssemblyInfo.cs
+C:\Users\balse\source\repos\Fast Food\obj\Debug\net6.0\staticwebassets\msbuild.Fast Food.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\balse\source\repos\Fast Food\obj\Debug\net6.0\staticwebassets\msbuild.build.Fast Food.props
+C:\Users\balse\source\repos\Fast Food\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Fast Food.props
+C:\Users\balse\source\repos\Fast Food\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Fast Food.props
+C:\Users\balse\source\repos\Fast Food\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\balse\source\repos\Fast Food\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\balse\source\repos\Fast Food\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\balse\source\repos\Fast Food\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\balse\source\repos\Fast Food\obj\Debug\net6.0\scopedcss\bundle\Fast Food.styles.css
+C:\Users\balse\source\repos\Fast Food\obj\Debug\net6.0\scopedcss\projectbundle\Fast Food.bundle.scp.css
+C:\Users\balse\source\repos\Fast Food\obj\Debug\net6.0\Fast Food.dll
+C:\Users\balse\source\repos\Fast Food\obj\Debug\net6.0\refint\Fast Food.dll
+C:\Users\balse\source\repos\Fast Food\obj\Debug\net6.0\Fast Food.pdb
+C:\Users\balse\source\repos\Fast Food\obj\Debug\net6.0\Fast Food.genruntimeconfig.cache
+C:\Users\balse\source\repos\Fast Food\obj\Debug\net6.0\ref\Fast Food.dll

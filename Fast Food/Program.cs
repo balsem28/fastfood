@@ -1,7 +1,11 @@
+using fastfood.Repository;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddDbContext<ApplicationDbcontext>(options =>
+                   options.UseSqlServer(hostContext.Configuration.GetConnectionString("ApplicationDbContextConnection")));
 
 var app = builder.Build();
 

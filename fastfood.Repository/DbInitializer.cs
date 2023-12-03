@@ -12,9 +12,9 @@ namespace fastfood.Repository
     internal class DbInitializer:IDbInitialize
 
     {
-    private readonly RoleManager<IdentityRole> _roleManager;
-    private readonly UserManager<IdentityUser> _userManager;
-    private readonly ApplicationDbcontext _context;
+    private RoleManager<IdentityRole> _roleManager;
+    private UserManager<IdentityUser> _userManager;
+    private ApplicationDbcontext _context;
     public DbInitializer (RoleManager <IdentityRole> roleManager ,
         UserManager<IdentityUser> userManager ,
         ApplicationDbcontext context)
